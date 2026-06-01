@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">定时提醒</string>
+
+    <!-- 通用 -->
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="close">关闭</string>
+    <string name="confirm">确认</string>
+    <string name="add">添加</string>
+    <string name="edit">编辑</string>
+
+    <!-- 提醒列表 -->
+    <string name="no_reminders">还没有提醒\n点击 + 添加一个</string>
+    <string name="delete_reminder">确定要删除这个提醒吗？</string>
+    <string name="reminder_deleted">提醒已删除</string>
+
+    <!-- 添加/编辑提醒 -->
+    <string name="new_reminder">新建提醒</string>
+    <string name="edit_reminder">编辑提醒</string>
+    <string name="title_hint">提醒标题</string>
+    <string name="description_hint">备注（可选）</string>
+    <string name="repeat_type">重复</string>
+    <string name="once">一次性</string>
+    <string name="daily">每天</string>
+    <string name="weekly">每周</string>
+    <string name="monthly">每月</string>
+    <string name="interval">自定义间隔</string>
+    <string name="weekday">工作日</string>
+    <string name="select_time">选择时间</string>
+    <string name="select_days">选择星期</string>
+    <string name="select_date">选择日期</string>
+    <string name="interval_minutes">间隔（分钟）</string>
+    <string name="reminder_methods">提醒方式</string>
+    <string name="notification">通知</string>
+    <string name="ring">响铃</string>
+    <string name="vibrate">震动</string>
+    <string name="ringtone">铃声</string>
+    <string name="tag">标签</string>
+    <string name="no_tag">无标签</string>
+    <string name="select_ringtone">选择铃声</string>
+    <string name="default_ringtone">默认铃声</string>
+
+    <!-- 闹钟响铃 -->
+    <string name="snooze_5min">贪睡5分钟</string>
+    <string name="snooze_10min">贪睡10分钟</string>
+    <string name="snooze_15min">贪睡15分钟</string>
+    <string name="dismiss">关闭</string>
+
+    <!-- 标签 -->
+    <string name="manage_tags">管理标签</string>
+    <string name="tag_name_hint">标签名称</string>
+    <string name="delete_tag">确定要删除标签吗？</string>
+
+    <!-- 桌面小部件 -->
+    <string name="widget_name">定时提醒</string>
+    <string name="widget_description">显示最近的提醒</string>
+    <string name="no_upcoming">暂无即将到来的提醒</string>
+
+    <!-- 权限 -->
+    <string name="notification_permission_required">需要通知权限才能发送提醒通知</string>
+    <string name="alarm_permission_required">需要精确闹钟权限才能准点提醒</string>
+</resources>
